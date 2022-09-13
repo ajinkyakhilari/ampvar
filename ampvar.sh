@@ -2,7 +2,7 @@
 #Variant callig script using Nanopolish
 #MJK LAB
 #CSIR_NCL
-#
+
 
 FASTQ=$1
 FAST5=$2
